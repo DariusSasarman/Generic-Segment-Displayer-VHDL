@@ -17,6 +17,6 @@
 
 ### 🎥 Live Demonstration:
 
-[![Watch the demo](https://img.shields.io/badge/Video-Demo-blue?logo=youtube)](https://github.com/user-attachments/assets/16f8c106-278f-4839-9843-15e6539a8bc0)
+https://github.com/user-attachments/assets/308b1768-c6b7-412d-ab96-9bbed5c79ecc
 
-<sub>Note: Shifting logic not included in Generig-Segment-Displayer code. It's implemented in the test file.</sub>
+<sub>Note: Shifting logic not included in Generic-Segment-Displayer code. It's implemented in the test file.</sub>
